@@ -1,0 +1,4 @@
+# List of files for Git to not track:
+*.dat
+*.datazz
+results/
